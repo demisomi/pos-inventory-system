@@ -142,7 +142,7 @@ npm install
 Once your setup is complete:
 
 1. Read [CONTRIBUTING.md](CONTRIBUTING.md) for detailed workflow
-2. Check the [Project Board](https://github.com/YOUR-USERNAME/pos-inventory-system/projects) for available tasks
+2. Check the Project Board https://github.com/YOUR-USERNAME/pos-inventory-system/projects for available tasks
 3. Join the team communication channel
 4. Attend the next team standup
 
