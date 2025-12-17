@@ -11,21 +11,21 @@ A comprehensive Point-of-Sale and Inventory Management System designed for retai
 
 | Name | Role | GitHub Username |
 |------|------|----------------|
-| [Name] | Product Manager | @username |
-| [Name] | Project Manager | @username |
-| [Name] | Lead Software Architect | @username |
-| [Name] | Lead UX Designer | @username |
-| [Name] | Lead Software Developer | @username |
-| [Name] | Software QA Lead | @username |
-| [Name] | Frontend Developer | @username |
-| [Name] | Backend Developer | @username |
-| [Name] | UX Designer | @username |
-| [Name] | QA Tester | @username |
+| Tobe Ofili  | Product Manager | @username |
+| Kene Obiekwe  | Project Manager | @username |
+| Alex-Ojukwu Nduka | Lead Software Architect | @username |
+| Yasir Tella | Lead UX Designer | @username |
+| Oluwademilade Somide | Lead Software Developer | @username |
+| Oluwatimilehin Ilesanmi | Software QA Lead | @username |
+| Alex-Ojukwu Nduka | Frontend Developer | @username |
+| Oluwademilade Somide, Nmesoma Okonkwo  | Backend Developer | @username |
+| Osara Oseiga Joseph | UX Designer | @username |
+| Oluwatimilehin Ilesanmi | QA Tester | @username |
 
 ### Team Distribution
-- **UX Design Team**: [Names]
-- **Development Team**: [Names]
-- **Testing & QA Team**: [Names]
+- **UX Design Team**: [Osara Oseiga Joseph, Yasir Tella]
+- **Development Team**: [Alex-Ojukwu Nduka, Oluwademilade Somide, Nmesoma Okonkwo, Akpe Omokafe]
+- **Testing & QA Team**: [Oluwatimilehin Ilesanmi, Oluwademilade Somide, Kene Obiekwe, Tobe Ofili]
 
 ## 🏗️ Architecture
 
@@ -275,7 +275,7 @@ Key endpoints:
 - **Task Tracking**: GitHub Issues
 - **Project Board**: [Link to GitHub Projects board]
 - **Documentation**: `/docs` folder
-- **Communication**: [Your team's communication channel]
+- **Communication**: [WhatsApp Github]
 
 ## 📅 Development Timeline
 
@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues or questions:
 - Create an issue in the GitHub repository
-- Contact the Project Manager: [email]
+- Contact the Project Manager: [kene.Obiekwe@pau.edu.ng]
 
 ---
 
