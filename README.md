@@ -25,7 +25,7 @@ A comprehensive Point-of-Sale and Inventory Management System designed for retai
 ### Team Distribution
 - **UX Design Team**: [Osara Oseiga Joseph, Yasir Tella]
 - **Development Team**: [Alex-Ojukwu Nduka, Oluwademilade Somide, Nmesoma Okonkwo, Akpe Omokafe]
-- **Testing & QA Team**: [Oluwatimilehin Ilesanmi,Akpe Omokafe ,Kene Obiekwe, Tobe Ofili]
+- **Testing & QA Team**: [Oluwatimilehin Ilesanmi,Omole Taiwo ,Kene Obiekwe, Tobe Ofili]
 
 ## 🏗️ Architecture
 
