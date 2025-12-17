@@ -1,0 +1,42 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "format": "prettier --write \"src/**/*.{js,jsx,ts,tsx,json,css,md}\"",
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.90.12",
+    "axios": "^1.13.2",
+    "date-fns": "^4.1.0",
+    "lucide-react": "^0.561.0",
+    "next": "16.0.10",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
+    "react-hook-form": "^7.68.0",
+    "recharts": "^3.6.0",
+    "zod": "^4.2.1",
+    "zustand": "^5.0.9"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20.19.27",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
+    "eslint": "^9",
+    "eslint-config-next": "16.0.10",
+    "prettier": "^3.7.4",
+    "prettier-plugin-tailwindcss": "^0.7.2",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+  
+}
