@@ -11,21 +11,21 @@ A comprehensive Point-of-Sale and Inventory Management System designed for retai
 
 | Name | Role | GitHub Username |
 |------|------|----------------|
-| [Name] | Product Manager | @username |
-| [Name] | Project Manager | @username |
-| [Name] | Lead Software Architect | @username |
-| [Name] | Lead UX Designer | @username |
-| [Name] | Lead Software Developer | @username |
-| [Name] | Software QA Lead | @username |
-| [Name] | Frontend Developer | @username |
-| [Name] | Backend Developer | @username |
-| [Name] | UX Designer | @username |
-| [Name] | QA Tester | @username |
+| Tobe Ofili  | Product Manager | @username |
+| Kene Obiekwe  | Project Manager | @username |
+| Alex-Ojukwu Nduka | Lead Software Architect | @username |
+| Yasir Tella | Lead UX Designer | @username |
+| Akpe Omokafe | Lead Software Developer | @username |
+| Oluwatimilehin Ilesanmi | Software QA Lead | @username |
+| Alex-Ojukwu Nduka | Frontend Developer | @username |
+| Oluwademilade Somide, Nmesoma Okonkwo  | Backend Developer | @username |
+| Osara Oseiga Joseph | UX Designer | @username |
+| Omole Taiwo | QA Tester | @username |
 
 ### Team Distribution
-- **UX Design Team**: [Names]
-- **Development Team**: [Names]
-- **Testing & QA Team**: [Names]
+- **UX Design Team**: [Osara Oseiga Joseph, Yasir Tella]
+- **Development Team**: [Alex-Ojukwu Nduka, Oluwademilade Somide, Nmesoma Okonkwo, Akpe Omokafe]
+- **Testing & QA Team**: [Oluwatimilehin Ilesanmi,Omole Taiwo ,Kene Obiekwe, Tobe Ofili]
 
 ## 🏗️ Architecture
 
@@ -126,7 +126,9 @@ pos-inventory-system/
 - **PostgreSQL**: 14.x or higher
 - **Git**: Latest version
 
-### Installation
+### Quick Setup
+
+**For detailed setup instructions, see [QUICK_START.md](QUICK_START.md)**
 
 #### 1. Clone the Repository
 ```bash
@@ -136,39 +138,14 @@ cd pos-inventory-system
 
 #### 2. Set Up Backend (Django)
 ```bash
-# Navigate to backend
 cd backend
-
-# Create virtual environment
 python -m venv venv
-
-# Activate virtual environment
-# Windows:
-venv\Scripts\activate
-# macOS/Linux:
-source venv/bin/activate
-
-# Install dependencies
+source venv/bin/activate  # Windows: venv\Scripts\activate
 pip install -r requirements.txt
-
-# Create .env file
 cp .env.example .env
 # Edit .env with your database credentials
-
-# Create PostgreSQL database
-# Using psql:
-psql -U postgres
-CREATE DATABASE pos_inventory_db;
-\q
-
-# Run migrations
-python manage.py makemigrations
 python manage.py migrate
-
-# Create superuser
 python manage.py createsuperuser
-
-# Run development server
 python manage.py runserver
 ```
 
@@ -177,17 +154,10 @@ Admin panel: `http://localhost:8000/admin`
 
 #### 3. Set Up Frontend (Next.js)
 ```bash
-# Open new terminal, navigate to frontend
+# Open new terminal
 cd frontend
-
-# Install dependencies
 npm install
-
-# Create .env.local file
 cp .env.example .env.local
-# Verify NEXT_PUBLIC_API_URL=http://localhost:8000/api
-
-# Run development server
 npm run dev
 ```
 
@@ -223,6 +193,33 @@ pytest
 - ✅ Sales Reports & Analytics
 - ✅ Inventory Reports
 - ✅ Low Stock Alerts
+
+## 👥 For Contributors
+
+New to the project? Check out our guides:
+
+- 🚀 **[Quick Start Guide](QUICK_START.md)** - Get set up in 30 minutes
+- 📖 **[Contributing Guide](CONTRIBUTING.md)** - Detailed workflow and standards
+- 🏗️ **[Architecture Docs](docs/architecture/README.md)** - System design decisions
+- 🎨 **[UX Design Docs](docs/ux-design/README.md)** - Design guidelines
+- 📚 **[DDD Documentation](docs/ddd/README.md)** - Domain-Driven Design approach
+
+### Quick Links for Contributors
+
+- [How to clone and set up](CONTRIBUTING.md#getting-started)
+- [Git workflow](CONTRIBUTING.md#git-workflow)
+- [Coding standards](CONTRIBUTING.md#coding-standards)
+- [Testing guide](CONTRIBUTING.md#testing-requirements)
+- [Pull request process](CONTRIBUTING.md#pull-request-guidelines)
+
+### First Time Contributing?
+
+1. Accept the GitHub repository invitation
+2. Follow the [Quick Start Guide](QUICK_START.md)
+3. Pick an issue from the [Project Board](https://github.com/YOUR-USERNAME/pos-inventory-system/projects)
+4. Create a feature branch
+5. Make your changes
+6. Submit a pull request
 
 ## 📚 API Documentation
 
@@ -272,8 +269,8 @@ Key endpoints:
 
 ## 📊 Project Management
 
-- **Task Tracking**: GitHub Issues
-- **Project Board**: [Link to GitHub Projects board]
+- **Task Tracking**: [GitHub Issues](https://github.com/YOUR-USERNAME/pos-inventory-system/issues)
+- **Project Board**: [GitHub Projects](https://github.com/YOUR-USERNAME/pos-inventory-system/projects)
 - **Documentation**: `/docs` folder
 - **Communication**: [Your team's communication channel]
 
@@ -283,12 +280,22 @@ Key endpoints:
 - **Week 3**: Database schema, API design, UI wireframes
 - **Week 4-5**: Core feature development
 - **Week 6**: Feature completion & integration
-- **Week 7**: Testing, bug fixes, QA
-- **Week 8**: Final documentation, presentation prep
+- **Week 7**: Testing, bug fixes,
+- **Week 7**: Final documentation, presentation prep
 
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and development process.
+
+Development Environment
+Before contributing, ensure you have:
+
+1. Cloned the repository
+2. Set up both frontend and backend
+3. Created a feature branch
+4. Read the contributing guidelines
+
+See  [QUICK_START.md](QUICK_START.md) for setup instructions.
 
 ## 📄 License
 
@@ -297,8 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues or questions:
-- Create an issue in the GitHub repository
-- Contact the Project Manager: [email]
+🐛 Bugs: Create an issue in the GitHub repository
+💬 Questions: Ask in the team communication channel
+📧 Contact the Project Manager: [kene.obiekwe@pau.edu.ng]
 
 ---
 
