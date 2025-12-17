@@ -15,17 +15,17 @@ A comprehensive Point-of-Sale and Inventory Management System designed for retai
 | Kene Obiekwe  | Project Manager | @username |
 | Alex-Ojukwu Nduka | Lead Software Architect | @username |
 | Yasir Tella | Lead UX Designer | @username |
-| Oluwademilade Somide | Lead Software Developer | @username |
+| Akpe Omokafe | Lead Software Developer | @username |
 | Oluwatimilehin Ilesanmi | Software QA Lead | @username |
 | Alex-Ojukwu Nduka | Frontend Developer | @username |
 | Oluwademilade Somide, Nmesoma Okonkwo  | Backend Developer | @username |
 | Osara Oseiga Joseph | UX Designer | @username |
-| Oluwatimilehin Ilesanmi | QA Tester | @username |
+| Omole Taiwo | QA Tester | @username |
 
 ### Team Distribution
 - **UX Design Team**: [Osara Oseiga Joseph, Yasir Tella]
 - **Development Team**: [Alex-Ojukwu Nduka, Oluwademilade Somide, Nmesoma Okonkwo, Akpe Omokafe]
-- **Testing & QA Team**: [Oluwatimilehin Ilesanmi, Oluwademilade Somide, Kene Obiekwe, Tobe Ofili]
+- **Testing & QA Team**: [Oluwatimilehin Ilesanmi,Akpe Omokafe ,Kene Obiekwe, Tobe Ofili]
 
 ## 🏗️ Architecture
 
@@ -273,7 +273,7 @@ Key endpoints:
 ## 📊 Project Management
 
 - **Task Tracking**: GitHub Issues
-- **Project Board**: [Link to GitHub Projects board]
+- **Project Board**: https://github.com/users/demisomi/projects/2
 - **Documentation**: `/docs` folder
 - **Communication**: [WhatsApp Github]
 
