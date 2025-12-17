@@ -216,7 +216,7 @@ New to the project? Check out our guides:
 
 1. Accept the GitHub repository invitation
 2. Follow the [Quick Start Guide](QUICK_START.md)
-3. Pick an issue from the [Project Board](https://github.com/YOUR-USERNAME/pos-inventory-system/projects)
+3. Pick an issue from the Project Board
 4. Create a feature branch
 5. Make your changes
 6. Submit a pull request
@@ -269,10 +269,10 @@ Key endpoints:
 
 ## 📊 Project Management
 
-- **Task Tracking**: [GitHub Issues](https://github.com/YOUR-USERNAME/pos-inventory-system/issues)
-- **Project Board**: [GitHub Projects](https://github.com/YOUR-USERNAME/pos-inventory-system/projects)
+- **Task Tracking**: GitHub Issues
+- **Project Board**: GitHub Projects
 - **Documentation**: `/docs` folder
-- **Communication**: [Your team's communication channel]
+- **Communication**: WhatsApp, Github
 
 ## 📅 Development Timeline
 
@@ -304,9 +304,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues or questions:
-🐛 Bugs: Create an issue in the GitHub repository
-💬 Questions: Ask in the team communication channel
-📧 Contact the Project Manager: [kene.obiekwe@pau.edu.ng]
+- 🐛 Bugs: Create an issue in the GitHub repository
+- 💬 Questions: Ask in the team communication channel
+- 📧 Contact the Project Manager: [kene.obiekwe@pau.edu.ng]
 
 ---
 
