@@ -298,7 +298,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For issues or questions:
 - Create an issue in the GitHub repository
-- Contact the Project Manager: [kene.Obiekwe@pau.edu.ng]
+- Contact the Project Manager: [kene.obiekwe@pau.edu.ng]
 
 ---
 
